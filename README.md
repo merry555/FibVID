@@ -49,4 +49,4 @@ python network_model_sample.py
 
 
 ## Note
-This dataset is temporary opened for conference submission judge.
+This dataset is temporarily available for the conference submission judges.

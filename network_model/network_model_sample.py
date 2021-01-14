@@ -4,7 +4,8 @@
 
 import pandas as pd
 import numpy as np
-df=pd.read_csv("final_dataset/origin_change/claim_propagation.csv")
+
+df=pd.read_csv("./claim_propagation/claim_propagation.csv")
 
 
 claim=list(set(df['claim_number'].tolist()))
@@ -80,3 +81,5 @@ for i in range(len(claim)):
     
     if len(all_lists)>2:
         df_claim.virality[df_claim.index[df_claim['claim_number'] == claim_n]] =  virality/(len(all_lists)*(len(all_lists)-1)/2)
+        
+db_claim.to_csv('calculate_output.csv',index=False)

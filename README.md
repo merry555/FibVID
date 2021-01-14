@@ -21,7 +21,7 @@ The dataset for each result condition can be downloaded by running the file in t
   * user_information.csv : this file provides the user information that includes user id, create date, description, follower count, and the following count.
 
 ## Schematic diagram of network model
-We provide networks model to calculate volume, depth, and virality for claims.
+We provide a sample networks model to calculate volume, depth, and virality for claims.
 
 ```
 cd network_model

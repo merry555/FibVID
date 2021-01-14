@@ -24,7 +24,7 @@ The dataset for each result condition can be downloaded by running the file in t
 We provide a sample network model to calculate volume, depth, and virality for claims.
 
 ```
-# output dataset : calculate.csv
+# output dataset : calculate_output.csv
 cd network_model
 python network_model_sample.py
 ```

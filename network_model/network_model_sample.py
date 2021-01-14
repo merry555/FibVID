@@ -50,9 +50,6 @@ for i in range(len(claim)):
 
 
 # ### 2. Virality per claims
-
-import numpy as np
-
 df_claim["virality"]=0
 
 for i in range(len(claim)):

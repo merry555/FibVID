@@ -4,6 +4,9 @@ FibVID repository is to supplement the paper "Comprehensive Fake News Diffusion 
 ## Overview of our Dataset.
 Our repository consists of three datasets: News Claim, Claim Propagation, and User Information. News Claim was collected from two fact-checking sites, Politifact and Snopes. Claim Propagation and User Information about the News Claim data were collected from Twitter. In Claim Propagation and User Information, we pseudonymized the user screen name and marked them in numbers for a privacy policy. All the data were grouped as follows: 0 as COVID True claims, 1 as COVID Fake claims, 2 as Non-COVID True claims, and 3 as Non-COVID Fake claims.
 
+## Requirement
+* python >= 3.6.5
+
 ## Clone
 git clone https://github.com/merry555/FibVID
 

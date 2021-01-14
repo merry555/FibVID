@@ -9,6 +9,7 @@ Our repository consists of three datasets: News Claim, Claim Propagation, and Us
 While the coronavirus disease 2019 (COVID-19) has rampant throughout the world, misinformation dissemination has caused various confusions. Thus, understanding the misinformation on COVID-19 and its propagation has recently become one of the important tasks in our society. To shed light on the issue, we aim to contribute a valuable dataset, which addresses three key topics. First, we provide both true and fake (T/F) claim dataset of COVID-19 and non-COVID issues, which are labeled and validated by several fact-checking journalism platforms (e.g. Snopes and Politifact). Second, we collect the claim-related tweets and retweets from Twitter, one of the largest social network services. Third, we provide basic user information including the terms and characteristics of 'heavy fake news user' for presenting a better understanding of T/F claims in considerations of COVID-19. Our dataset has several significant contributions. The dataset can be useful to uncover potential propagation patterns with their relations to issues, authenticity of claims, traits of users who engaged in, and patterns of information diffusion. We provide suggestions on possible applications of the dataset with a few exploratory analyses to examine effectiveness of the approaches we used. 
 
 ## Data Collection Pipeline
+![pipe](https://user-images.githubusercontent.com/18303573/104558354-038b4f80-5686-11eb-904b-82811838aa20.png)
 
 
 ## Requirement

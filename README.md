@@ -47,6 +47,3 @@ cd network_model
 python network_model_sample.py
 ```
 
-
-## Note
-This dataset is temporarily available for the conference submission judges.

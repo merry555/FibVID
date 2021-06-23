@@ -19,10 +19,6 @@ In order to comprise the dataset from January 2020 to December 2020, we built th
 * python >= 3.6.5
 
 
-## Clone
-git clone https://github.com/merry555/FibVID
-
-
 ## Dataset
 The dataset for each result condition can be downloaded by running the file in the dataset.
 
